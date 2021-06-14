@@ -23,7 +23,7 @@
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
-    "serialize-javascript": ">=3.1.0"
+    "serialize-javascript": ">=3.1.0",
     "autoprefixer": "^9.7.6",
     "css-loader": "^3.5.2",
     "exports-loader": "^0.7.0",
